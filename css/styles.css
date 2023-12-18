@@ -157,8 +157,8 @@ color: #404bbf;
 .solution {
 background: #2E2F42;
 padding: 188px 0;
-background color: var(--GREY, rgba(46, 47, 66, 0.70));
-background-image: url(../images/people-office.jpg);
+background color: rgba(46, 47, 66, 0.70);
+background-image: url(../hero/.prettiers.json);
 } 
  
 
