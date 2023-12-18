@@ -158,9 +158,9 @@ color: #404bbf;
 background: #2E2F42;
 padding: 188px 0;
 
-background-image: url(hero/peopleoffice.jpg);
+background-image: url(/hero/peopleoffice.jpg);
 background-repeat: no-repeat;
-bacground-position: 0 0;
+
 } 
  
 
