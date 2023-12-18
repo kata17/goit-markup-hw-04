@@ -157,11 +157,12 @@ color: #404bbf;
 .solution {
 background: #2E2F42;
 padding: 188px 0;
-  background: rgba(46, 47, 66, 0.70);
 background-image: linear-gradient (rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url(../images/img-name.jpg);
 background-repeat: no-repeat;
-background-size: 1440px; 
-
+background-size: cover; 
+background-position: center;
+max-width: 1440px;
+margin: 0;
 } 
 
 .section-title {
