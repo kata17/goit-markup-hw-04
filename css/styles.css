@@ -225,6 +225,11 @@ background-color: #404BBF;
     width: calc((100% - 72px) / 4);
 }
 
+.icon {
+    fill: #F4F4FD;
+     
+
+  }
 
 .title-name {
 color: #2E2F42;
