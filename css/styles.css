@@ -232,7 +232,7 @@ background-color: #404BBF;
 
 .icon {
     fill: #FFF;
-
+margin:24px 100px;
 
 }
      
@@ -243,7 +243,7 @@ border: 1px solid var(--LIGHT-SLATE, #8E8F99);
 background: var(--CLOUD, #F4F4FD);
 position: relative;
 display: block;
-margin: 0 auto;
+
 text-align: center;
 }
   
