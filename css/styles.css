@@ -226,13 +226,17 @@ background-color: #404BBF;
 }
 
 .icon {
-    
-    border-radius: 4px;
-border: 1px solid var(--LIGHT-SLATE, #8E8F99);
 fill: var(--CLOUD, #F4F4FD);
+}
      
-
-  }
+.thumb {
+width: 264px;
+height: 112px;
+flex-shrink: 0;
+border: 1px solid var(--LIGHT-SLATE, #8E8F99);
+border-radius: 4px;
+}
+  
 
 .title-name {
 color: #2E2F42;
