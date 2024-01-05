@@ -234,6 +234,7 @@ background-color: #404BBF;
     fill: #FFF;
 display: block;
 margin: 24px 100px;
+position: relative;
 }
      
 .box-team{
