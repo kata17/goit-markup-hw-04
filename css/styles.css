@@ -233,7 +233,7 @@ background-color: #404BBF;
 .icon {
     fill: #FFF;
 display: block;
-padding: 24px 100px;
+margin: 0 auto;
 text-align: center;
 
 }
