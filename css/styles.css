@@ -533,6 +533,8 @@ height: 40px;
     margin-top: 0;
     margin-bottom: 0;
    margin-right: 120px;
+   display: flex;
+   align-items: baseline;
 }
 
 .footer-socials-title {
@@ -555,9 +557,12 @@ height: 40px;
     align-items: flex-start;
     gap: 16px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    width: 40px;
+    height: 40px;
 }
 .logo-box {
     color: #F4F4FD;
+    margin-right: 120px;
 }
 .socials-icons{
     fill: #F4F4FD;
