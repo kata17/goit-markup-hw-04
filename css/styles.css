@@ -460,9 +460,28 @@ height: 40px;
         font-style: normal;
         font-weight: 400;
         line-height: 1.5;
-         letter-spacing: 0.02em;
-        
+         letter-spacing: 0.02em;   
 }
 
+.footer-socials {
+    width: 208px;
+height: 80px;
+flex-shrink: 0;
+}
 
+.footer-socials-title {
+    color: var(--WHITE, #FFF);
 
+    /* Body Medium */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+.socials-item {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 16px;
+}
