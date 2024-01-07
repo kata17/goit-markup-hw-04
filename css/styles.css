@@ -430,7 +430,7 @@ height: 40px;
 }
 .portfolio-list-item {
        width: calc((100% - 48px) / 3);
-       transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.002, 1);
+       transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .portfolio-item {
